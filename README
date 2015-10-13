@@ -1,0 +1,3 @@
+uses java8 and maven 3
+compile: mvn clean install
+see unit test src/main/test/mowit/ServiceTest#testXebia()
